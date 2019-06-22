@@ -1,0 +1,120 @@
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Identifie.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrateur\Bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN DE FORMATION1\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\bureau\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+G:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Confirmation.resources
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Confirmation.resources
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+D:\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Confirmation.resources
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
+D:\module2eme ane\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.exe
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.pdb
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\bin\Debug\PROJET DE FIN DE FORMATION.xml
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Confirmation.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.loginn.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Rechercher.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.serviceplan.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\Nouveau dossier\PROJET FIN DE FORMATION\projet final de commune urbaine de guercif\PROJET DE FIN\PROJET DE FIN DE FORMATION\obj\Debug\PROJET DE FIN DE FORMATION.vbproj.GenerateResource.Cache
